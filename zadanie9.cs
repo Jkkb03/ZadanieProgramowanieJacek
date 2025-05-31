@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string sentence = "Wczoraj by³em na imprezie i zgubi³em portfel.";
+        string sentence = "Wczoraj bylem na imprezie i zgubilem portfel.";
 
         Console.WriteLine("Original Sentence:");
         Console.WriteLine(sentence);
